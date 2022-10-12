@@ -62,6 +62,7 @@ this.fuel = 185;
       positionY: this.positionY,
       rank: this.rank,
       score: this.score
+      life: this.life
      });
   }
 
